@@ -49,7 +49,7 @@ This project is a starter setup for building Vue 3 applications with Vite, Tailw
 
 ## Customization
 
-- Add your routes in `src/router/index.js`.
+- Add your routes in `src/router/routes.js`.
 - Add your components in `src/components/`.
 - Use Tailwind utility classes in your templates.
 
